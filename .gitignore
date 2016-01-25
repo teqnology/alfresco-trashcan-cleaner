@@ -20,3 +20,9 @@ bin
 src/log4j.properties
 alfresco.log
 *.jar
+.idea/
+target/*
+!target/*.amp
+alf_data_dev/
+*.log
+*.iml
